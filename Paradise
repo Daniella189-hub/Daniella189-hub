@@ -1,0 +1,8 @@
+# ! /bin/bash
+word=paradise
+echo "hello $word! how are you doing"
+# a simple question to ask the user 
+echo "what is your definition of paradise"
+read paradise 
+echo " I just admire your definition of $paradise!, you are one of a kind" 
+#a simple 
